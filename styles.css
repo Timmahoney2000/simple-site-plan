@@ -1,0 +1,42 @@
+* {
+    font-weight: bold;
+    color: white;
+    box-sizing: border-box;
+    outline-offset: -10%;
+}
+
+body {
+    background-color: black;
+    border: 5px solid #48cd31;
+}
+
+main {
+    margin: 10px 40px;
+}
+
+h1, h3{
+    text-align: center;
+}
+
+a {
+    color: #48CD31;
+}
+
+.container {
+    position: relative;
+    height: 100%;
+    width: 55%;
+    margin: 0 25% 0 25%;
+    background: #87CEEB;
+  }
+
+  section {
+    color: #48CD31;
+    align-items: center;
+    text-align: center;
+    text-decoration: underline;
+  }
+
+  #logo {
+    float: right;
+  }
